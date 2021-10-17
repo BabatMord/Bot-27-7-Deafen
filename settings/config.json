@@ -1,0 +1,10 @@
+{
+    "token" : "",
+    "channelID" : "" ,
+    "serverID" : "",
+    "activity1" : "Members",
+    "type1" : "WATCHING",
+    "activity2" : "a game",
+    "type2" : "PLAYING",
+    "activitytime" : "5000"
+}
