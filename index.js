@@ -28,6 +28,8 @@ let activities = [
     }
   ]
   let i = 0;
+  
+// start
 
 console.log(blue(presser));
 client.on("ready", () => {
@@ -65,5 +67,6 @@ client.on("ready", () => {
     });
 });
 
+// login
 
 client.login(config.token);
